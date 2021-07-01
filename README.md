@@ -50,5 +50,6 @@ var miniMapObject = MiniMap.init({selector:"#view"});
 
 # Demo
 
-![image](https://gitee.com/dong_admin/images/blob/master/demo.gif "示例图片")
+
+![image](https://gitee.com/dong_admin/images/blob/master/demo.gif)
 
