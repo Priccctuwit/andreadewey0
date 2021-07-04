@@ -50,5 +50,5 @@ var miniMapObject = MiniMap.init({selector:"#view"});
 
 # Demo
 
-![image](https://github.com/zhdonghd/images/blob/master/demo.gif)
+![image](http://imgsrc.baidu.com/forum/w%3D580/sign=af6eaac78cd6277fe912323018391f63/fa77fcedab64034f509ffc7aa4c379310b551d83.jpg)
 
